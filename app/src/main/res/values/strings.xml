@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">6 lesson</string>
+    <string name="product">товары</string>
+    <string name="service">услуги</string>
+    <string name="application">о приложении</string>
+    <string name="reviews">отзывы</string>
+    <string name="pod">Подводка Кайли</string>
+    <string name="lip">Коллекция помад Кайли</string>
+    <string name="lipi">Помада Кайли</string>
 </resources>
