@@ -27,8 +27,8 @@ class MainActivity : AppCompatActivity() {
         when(item.itemId) {
             R.id.product -> startActivity(intent)
             R.id.service -> startActivity(intent1)
-            R.id.application -> tvTitle?.text=getString(R.string.application)
-            R.id.reviews-> tvTitle?.text= getString(R.string.reviews)
+            R.id.application -> tvTitle?.text=getString(R.string.opisanie)
+            R.id.reviews-> tvTitle?.text= getString(R.string.otzyv)
         }
         return super.onOptionsItemSelected(item)
     }
