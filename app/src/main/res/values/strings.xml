@@ -10,4 +10,7 @@
     <string name="opisanie">В приложении вы найдете любую костеметику по вашему типу кожи.
      У нас только качественные товары и услуги.</string>
     <string name="otzyv">Лучшее приложение по покупке косметики</string>
+    <string name="txtpay">Оплата онлайн</string>
+    <string name="txtdost">Доставка</string>
+    <string name="txtconsul">Консультации</string>
 </resources>
